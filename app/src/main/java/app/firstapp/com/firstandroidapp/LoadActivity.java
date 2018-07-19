@@ -10,4 +10,9 @@ public class LoadActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_load);
     }
+
+    protected void fsdf(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_load);
+    }
 }
